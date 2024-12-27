@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>标签2 on Evalo&#39;s Blog</title>
-    <link>https://evalolyla.github.io/en/tags/%E6%A0%87%E7%AD%BE2/</link>
-    <description>Recent content in 标签2 on Evalo&#39;s Blog</description>
+    <title>DC on Evalo&#39;s Blog</title>
+    <link>https://evalolyla.github.io/en/categories/dc/</link>
+    <description>Recent content in DC on Evalo&#39;s Blog</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Dec 2024 21:22:32 +0800</lastBuildDate>
-    <atom:link href="https://evalolyla.github.io/en/tags/%E6%A0%87%E7%AD%BE2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://evalolyla.github.io/en/categories/dc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>看点黑归（just一半）</title>
       <link>https://evalolyla.github.io/en/posts/life/%E9%BB%91%E5%BD%92/</link>
@@ -29,16 +29,6 @@ Ohh好可爱，出现了一个新的小罗宾，活力满满的小孩！感觉�
 黑归的配音就舒服多了，哪怕是配白痴的也配的很白痴很入戏，唔。
 好大一只蝙蝠侠&amp;hellip;&amp;hellip;好大一只&amp;hellip;&amp;hellip;巨型猫猫。
 这只蝙还很话痨lol，“你还搞不懂吗？这不是什么泥坑，这是一个手术台，而我是主治医师”。天啊老头你年迈的嘴怎么能说出来那么中二的话！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>1003</title>
-      <link>https://evalolyla.github.io/en/posts/life/1003/</link>
-      <pubDate>Thu, 03 Oct 2024 02:34:07 +0800</pubDate>
-      <guid>https://evalolyla.github.io/en/posts/life/1003/</guid>
-      <description>&lt;p&gt;建设test
-两点半了oTATo
-&lt;img loading=&#34;lazy&#34; src=&#34;picture.png&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
